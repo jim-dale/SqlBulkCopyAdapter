@@ -11,7 +11,7 @@ Sample code to upload data to SQL Server quickly using the .NET SqlBulkCopy clas
 - [License](#license)
 
 ## Introduction
-The `SqlBulkCopyAdapter` is a .NET library designed to facilitate the rapid upload of data to SQL Server using the `SqlBulkCopy` class. This library provides a simple and efficient way to perform bulk inserts, making it ideal for applications that need to handle large volumes of data.
+The `SqlBulkCopyAdapter` is sample code to demostrate the rapid upload of data to SQL Server using the `SqlBulkCopy` class. The code provides a simple and efficient way to perform bulk inserts, making it ideal for applications that need to handle large volumes of data.
 
 ## Features
 - High-performance bulk data insertion
@@ -23,7 +23,7 @@ The `SqlBulkCopyAdapter` is a .NET library designed to facilitate the rapid uplo
 To install `SqlBulkCopyAdapter`, you can use the NuGet package manager:
 
 ## Usage
-See Program.cs for a basic example of how to use the `SqlBulkCopyAdapter`:
+See [Program.cs](src/Program.cs) for a basic example of how to use the `SqlBulkCopyAdapter`:
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
